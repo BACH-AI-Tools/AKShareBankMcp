@@ -1,0 +1,426 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bankmcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|solutionrelative:bankmcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bankmcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|solutionrelative:bankmcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bondmcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|solutionrelative:bondmcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\currencymcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|solutionrelative:currencymcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\foreignexchangemcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|solutionrelative:foreignexchangemcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\interestratemcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|solutionrelative:interestratemcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5367C1-5408-47D5-9464-C54B4B5D99AF}|StockMcp\\StockMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\stockmcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD5367C1-5408-47D5-9464-C54B4B5D99AF}|StockMcp\\StockMcp.csproj|solutionrelative:stockmcp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bondmcp\\tools\\bondtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|solutionrelative:bondmcp\\tools\\bondtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bondmcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|solutionrelative:bondmcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bankmcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|solutionrelative:bankmcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bankmcp\\tools\\banktool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19072455-13D5-489A-BB0C-969B1606FFD2}|BankMcp\\BankMcp.csproj|solutionrelative:bankmcp\\tools\\banktool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\currencymcp\\tools\\currencytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|solutionrelative:currencymcp\\tools\\currencytool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\interestratemcp\\tools\\ratetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|solutionrelative:interestratemcp\\tools\\ratetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\foreignexchangemcp\\tools\\foreignexchangetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|solutionrelative:foreignexchangemcp\\tools\\foreignexchangetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5367C1-5408-47D5-9464-C54B4B5D99AF}|StockMcp\\StockMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\stockmcp\\tools\\asharetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5367C1-5408-47D5-9464-C54B4B5D99AF}|StockMcp\\StockMcp.csproj|solutionrelative:stockmcp\\tools\\asharetool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\bondmcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E6A9E62-BAEE-4858-B9D5-1BBDE3525051}|BondMcp\\BondMcp.csproj|solutionrelative:bondmcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\currencymcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|solutionrelative:currencymcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\foreignexchangemcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|solutionrelative:foreignexchangemcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\interestratemcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|solutionrelative:interestratemcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\foreignexchangemcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92B4539D-6576-44B2-88E2-1DFE054A8827}|ForeignExchangeMcp\\ForeignExchangeMcp.csproj|solutionrelative:foreignexchangemcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\currencymcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5943A716-8C6C-42D2-9AA2-54C930066E18}|CurrencyMcp\\CurrencyMcp.csproj|solutionrelative:currencymcp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\interestratemcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE76335F-F156-471C-92E3-DE9DCEC192AB}|InterestRateMcp\\InterestRateMcp.csproj|solutionrelative:interestratemcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD5367C1-5408-47D5-9464-C54B4B5D99AF}|StockMcp\\StockMcp.csproj|f:\\mcptest\\aksharemcp\\aksharemcp\\stockmcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD5367C1-5408-47D5-9464-C54B4B5D99AF}|StockMcp\\StockMcp.csproj|solutionrelative:stockmcp\\controllers\\testtoolcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 273,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\appsettings.json",
+              "RelativeDocumentMoniker": "InterestRateMcp\\appsettings.json",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\appsettings.json",
+              "RelativeToolTip": "InterestRateMcp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T07:19:44.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\StockMcp\\appsettings.json",
+              "RelativeDocumentMoniker": "StockMcp\\appsettings.json",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\StockMcp\\appsettings.json",
+              "RelativeToolTip": "StockMcp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T07:19:17.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestToolController.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\Controllers\\TestToolController.cs",
+              "RelativeDocumentMoniker": "BankMcp\\Controllers\\TestToolController.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\Controllers\\TestToolController.cs",
+              "RelativeToolTip": "BankMcp\\Controllers\\TestToolController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:46:04.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\appsettings.json",
+              "RelativeDocumentMoniker": "BondMcp\\appsettings.json",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\appsettings.json",
+              "RelativeToolTip": "BondMcp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T08:20:14.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BankTool.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\tools\\BankTool.cs",
+              "RelativeDocumentMoniker": "BankMcp\\tools\\BankTool.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\tools\\BankTool.cs",
+              "RelativeToolTip": "BankMcp\\tools\\BankTool.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:21:29.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\appsettings.json",
+              "RelativeDocumentMoniker": "BankMcp\\appsettings.json",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\appsettings.json",
+              "RelativeToolTip": "BankMcp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T08:20:11.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\appsettings.json",
+              "RelativeDocumentMoniker": "ForeignExchangeMcp\\appsettings.json",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\appsettings.json",
+              "RelativeToolTip": "ForeignExchangeMcp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-14T08:30:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\appsettings.json",
+              "RelativeDocumentMoniker": "CurrencyMcp\\appsettings.json",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\appsettings.json",
+              "RelativeToolTip": "CurrencyMcp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T05:47:57.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ForeignExchangeTool.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\tools\\ForeignExchangeTool.cs",
+              "RelativeDocumentMoniker": "ForeignExchangeMcp\\tools\\ForeignExchangeTool.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\tools\\ForeignExchangeTool.cs",
+              "RelativeToolTip": "ForeignExchangeMcp\\tools\\ForeignExchangeTool.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:22:20.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AShareTool.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\StockMcp\\tools\\AShareTool.cs",
+              "RelativeDocumentMoniker": "StockMcp\\tools\\AShareTool.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\StockMcp\\tools\\AShareTool.cs",
+              "RelativeToolTip": "StockMcp\\tools\\AShareTool.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwC4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:33:17.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BondTool.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\tools\\BondTool.cs",
+              "RelativeDocumentMoniker": "BondMcp\\tools\\BondTool.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\tools\\BondTool.cs",
+              "RelativeToolTip": "BondMcp\\tools\\BondTool.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:21:32.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\Program.cs",
+              "RelativeDocumentMoniker": "BondMcp\\Program.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\Program.cs",
+              "RelativeToolTip": "BondMcp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:49:55.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\Program.cs",
+              "RelativeDocumentMoniker": "BankMcp\\Program.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BankMcp\\Program.cs",
+              "RelativeToolTip": "BankMcp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:18:23.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RateTool.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\tools\\RateTool.cs",
+              "RelativeDocumentMoniker": "InterestRateMcp\\tools\\RateTool.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\tools\\RateTool.cs",
+              "RelativeToolTip": "InterestRateMcp\\tools\\RateTool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:33:09.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CurrencyTool.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\tools\\CurrencyTool.cs",
+              "RelativeDocumentMoniker": "CurrencyMcp\\tools\\CurrencyTool.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\tools\\CurrencyTool.cs",
+              "RelativeToolTip": "CurrencyMcp\\tools\\CurrencyTool.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwEEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:52:17.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestToolController.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\Controllers\\TestToolController.cs",
+              "RelativeDocumentMoniker": "BondMcp\\Controllers\\TestToolController.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\BondMcp\\Controllers\\TestToolController.cs",
+              "RelativeToolTip": "BondMcp\\Controllers\\TestToolController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAzwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T08:46:07.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\Program.cs",
+              "RelativeDocumentMoniker": "InterestRateMcp\\Program.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\Program.cs",
+              "RelativeToolTip": "InterestRateMcp\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:32:05.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TestToolController.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\Controllers\\TestToolController.cs",
+              "RelativeDocumentMoniker": "ForeignExchangeMcp\\Controllers\\TestToolController.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\Controllers\\TestToolController.cs",
+              "RelativeToolTip": "ForeignExchangeMcp\\Controllers\\TestToolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T07:32:53.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\Program.cs",
+              "RelativeDocumentMoniker": "ForeignExchangeMcp\\Program.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\ForeignExchangeMcp\\Program.cs",
+              "RelativeToolTip": "ForeignExchangeMcp\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:49:21.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TestToolController.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\Controllers\\TestToolController.cs",
+              "RelativeDocumentMoniker": "CurrencyMcp\\Controllers\\TestToolController.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\Controllers\\TestToolController.cs",
+              "RelativeToolTip": "CurrencyMcp\\Controllers\\TestToolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:56:01.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencyMcp\\Program.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\CurrencyMcp\\Program.cs",
+              "RelativeToolTip": "CurrencyMcp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T05:49:32.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TestToolController.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\Controllers\\TestToolController.cs",
+              "RelativeDocumentMoniker": "InterestRateMcp\\Controllers\\TestToolController.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\InterestRateMcp\\Controllers\\TestToolController.cs",
+              "RelativeToolTip": "InterestRateMcp\\Controllers\\TestToolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:37:39.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TestToolController.cs",
+              "DocumentMoniker": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\StockMcp\\Controllers\\TestToolController.cs",
+              "RelativeDocumentMoniker": "StockMcp\\Controllers\\TestToolController.cs",
+              "ToolTip": "F:\\MCPTest\\AKShareMcp\\AKShareMcp\\StockMcp\\Controllers\\TestToolController.cs",
+              "RelativeToolTip": "StockMcp\\Controllers\\TestToolController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T08:37:43.405Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 113,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

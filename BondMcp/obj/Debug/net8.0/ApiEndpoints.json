@@ -1,0 +1,128 @@
+[
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_cash_summary_sse",
+    "RelativePath": "api/TestTool/get_bond_cash_summary_sse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_china_yield",
+    "RelativePath": "api/TestTool/get_bond_china_yield",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "start_date",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "end_date",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_deal_summary_sse",
+    "RelativePath": "api/TestTool/get_bond_deal_summary_sse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "date",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_debt_nafmii",
+    "RelativePath": "api/TestTool/get_bond_debt_nafmii",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_spot_deal",
+    "RelativePath": "api/TestTool/get_bond_spot_deal",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_spot_quote",
+    "RelativePath": "api/TestTool/get_bond_spot_quote",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_treasure_issue_cninfo",
+    "RelativePath": "api/TestTool/get_bond_treasure_issue_cninfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "start_date",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "end_date",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BondMcp.Controllers.TestToolController",
+    "Method": "get_bond_zh_us_rate",
+    "RelativePath": "api/TestTool/get_bond_zh_us_rate",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "start_date",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

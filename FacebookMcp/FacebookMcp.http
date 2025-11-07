@@ -1,0 +1,29 @@
+@FacebookMcp_HostAddress = http://localhost:5250
+
+GET {{FacebookMcp_HostAddress}}/TestTool/search-posts?query=technology
+Accept: application/json
+
+###
+
+GET {{FacebookMcp_HostAddress}}/TestTool/user/zuck
+Accept: application/json
+
+###
+
+GET {{FacebookMcp_HostAddress}}/TestTool/page/Microsoft
+Accept: application/json
+
+###
+
+GET {{FacebookMcp_HostAddress}}/TestTool/post/123456789
+Accept: application/json
+
+###
+
+GET {{FacebookMcp_HostAddress}}/TestTool/group/developers
+Accept: application/json
+
+###
+
+
+

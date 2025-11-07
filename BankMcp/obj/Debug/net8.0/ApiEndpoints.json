@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BankMcp.Controllers.TestToolController",
+    "Method": "get_bond_cash_summary_sse",
+    "RelativePath": "api/TestTool/get_bank_fjcf_table_detail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "page",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "item",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "begin",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

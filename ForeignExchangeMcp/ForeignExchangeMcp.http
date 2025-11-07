@@ -1,0 +1,6 @@
+@ForeignExchangeMcp_HostAddress = http://localhost:5264
+
+GET {{ForeignExchangeMcp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

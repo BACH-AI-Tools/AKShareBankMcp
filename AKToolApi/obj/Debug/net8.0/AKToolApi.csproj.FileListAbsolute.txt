@@ -1,0 +1,11 @@
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\bin\Debug\net8.0\AKToolApi.deps.json
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\bin\Debug\net8.0\AKToolApi.dll
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\bin\Debug\net8.0\AKToolApi.pdb
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\AKToolApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\AKToolApi.AssemblyInfoInputs.cache
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\AKToolApi.AssemblyInfo.cs
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\AKToolApi.csproj.CoreCompileInputs.cache
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\AKToolApi.dll
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\refint\AKToolApi.dll
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\AKToolApi.pdb
+F:\MCPTest\AKShareMcp\AKShareMcp\AKToolApi\obj\Debug\net8.0\ref\AKToolApi.dll

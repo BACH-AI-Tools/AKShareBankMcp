@@ -1,0 +1,204 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "1. FacebookMcp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-facebook",
+            "program": "${workspaceFolder}/FacebookMcp/bin/Debug/net8.0/FacebookMcp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/FacebookMcp",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5001"
+            }
+        },
+        {
+            "name": "2. BankMcp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-bank",
+            "program": "${workspaceFolder}/BankMcp/bin/Debug/net8.0/BankMcp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/BankMcp",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5002"
+            }
+        },
+        {
+            "name": "3. CurrencyMcp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-currency",
+            "program": "${workspaceFolder}/CurrencyMcp/bin/Debug/net8.0/CurrencyMcp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CurrencyMcp",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5003"
+            }
+        },
+        {
+            "name": "4. InterestRateMcp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-interest",
+            "program": "${workspaceFolder}/InterestRateMcp/bin/Debug/net8.0/InterestRateMcp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/InterestRateMcp",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5004"
+            }
+        },
+        {
+            "name": "5. ForeignExchangeMcp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-forex",
+            "program": "${workspaceFolder}/ForeignExchangeMcp/bin/Debug/net8.0/ForeignExchangeMcp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/ForeignExchangeMcp",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5005"
+            }
+        },
+        {
+            "name": "6. BondMcp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-bond",
+            "program": "${workspaceFolder}/BondMcp/bin/Debug/net8.0/BondMcp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/BondMcp",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5006"
+            }
+        },
+        {
+            "name": "7. StockMcp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-stock",
+            "program": "${workspaceFolder}/StockMcp/bin/Debug/net8.0/StockMcp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/StockMcp",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5007"
+            }
+        },
+        {
+            "name": "8. AKToolApi",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-aktool",
+            "program": "${workspaceFolder}/AKToolApi/bin/Debug/net8.0/AKToolApi.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/AKToolApi",
+            "stopAtEntry": false,
+            "console": "internalConsole",
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)",
+                "uriFormat": "%s/swagger/index.html"
+            },
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development",
+                "ASPNETCORE_URLS": "http://localhost:5008"
+            }
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ],
+    "compounds": [
+        {
+            "name": "🚀 启动所有项目",
+            "configurations": [
+                "1. FacebookMcp",
+                "2. BankMcp",
+                "3. CurrencyMcp",
+                "4. InterestRateMcp",
+                "5. ForeignExchangeMcp",
+                "6. BondMcp",
+                "7. StockMcp",
+                "8. AKToolApi"
+            ],
+            "stopAll": true
+        },
+        {
+            "name": "📊 金融服务组",
+            "configurations": [
+                "2. BankMcp",
+                "3. CurrencyMcp",
+                "4. InterestRateMcp",
+                "5. ForeignExchangeMcp"
+            ],
+            "stopAll": true
+        },
+        {
+            "name": "📈 投资服务组",
+            "configurations": [
+                "6. BondMcp",
+                "7. StockMcp"
+            ],
+            "stopAll": true
+        }
+    ]
+}
